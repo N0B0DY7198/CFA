@@ -1,2 +1,5 @@
 Hello!
-This is my archive I will be updating every so often with tools ive made, found, helped make, etc and some more things like putty standalone and more!
+This is the start of Project CFA aka com file archive.
+I dont want to take responsibility for any use, mis-use, abuse etc of these tools :)
+
+Remember to enjoy and contact me if you want one of your tools added.
